@@ -13,11 +13,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -41,11 +41,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -97,11 +97,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "0_1_4",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -153,11 +153,11 @@
       },
       "locked": {
         "dir": "0_1_5",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -181,11 +181,11 @@
       },
       "locked": {
         "dir": "0_1_6",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668791840,
-        "narHash": "sha256-fZZRmwncKH58xMy0w0b59EnMznhLJOKvSHTTkdSp11o=",
+        "lastModified": 1669431860,
+        "narHash": "sha256-85vqJWzU178hNvsQhAH6fEf63gUcnDf8JLo2xCxFgW0=",
         "owner": "nim-nix-pkgs",
         "repo": "alea",
-        "rev": "6579139566aa2a1c025a41ee99ac11fee93ffc01",
+        "rev": "eea94a7cec5fbc72e5669c0dfe44f91d538d6336",
         "type": "github"
       },
       "original": {
@@ -641,11 +641,11 @@
       },
       "locked": {
         "dir": "v0_5_7",
-        "lastModified": 1668776082,
-        "narHash": "sha256-H9JNJqMe4cC1hCPopKqOsf1asv5XZTr0wXp0NcESqR0=",
+        "lastModified": 1669431336,
+        "narHash": "sha256-RZ0bZcfgp7b9m8PxhjY58fgebmFnWopu31XkLNcxZfk=",
         "owner": "nim-nix-pkgs",
         "repo": "random",
-        "rev": "cdcb1aec234c1feeb5643c45020a7bbb512716ee",
+        "rev": "eeb0d7970aa8bf8878ef818ce36a0f467922458b",
         "type": "github"
       },
       "original": {
